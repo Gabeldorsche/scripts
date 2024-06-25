@@ -1,0 +1,7 @@
+##  backup of scripts i use for android platform development 
+
+CREDITS : 
+
+https://github.com/akhilnarang/scripts or not idek been using these for too long :)
+
+
